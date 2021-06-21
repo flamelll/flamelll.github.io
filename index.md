@@ -27,6 +27,5 @@
 ### 还请移至鄙人的博客以及githug查看
 
 # 专业博客发表
-### 博客主页
-#### [博客](https://www.cnblogs.com/a155-/)
+### [个人博客](https://www.cnblogs.com/a155-/)
 
