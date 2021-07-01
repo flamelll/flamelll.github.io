@@ -28,6 +28,7 @@
 ### 项目[微信记账本](https://github.com/flamelll/jizhangben)
 ### 项目[热词云](https://github.com/flamelll/WordCloud)
 ### 项目[河北省重大技术需求征集系统](https://github.com/flamelll/xuqiuzhengji)
+### 项目[疫情数据可视化系统](https://github.com/flamelll/yiqing)
 
 # 专业博客发表
 ### [个人博客](https://www.cnblogs.com/a155-/)
