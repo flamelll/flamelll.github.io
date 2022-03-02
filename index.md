@@ -21,7 +21,7 @@
 ### 经常发表个人学习博客，与博友们广泛沟通，不断探寻新鲜事物和结交不同的人群，促使自己不断成长。
 
 # 专业实践情况
-### 目前在参加中国软件杯的比赛、此前还参加了中国大学生计算机设计大赛并获得奖项
+### 目前大四正在做毕设。
 
 # 专业技能展示
 ### 还请移至鄙人的博客以及githug主页查看
@@ -29,6 +29,7 @@
 ### 项目[热词云](https://github.com/flamelll/WordCloud)
 ### 项目[河北省重大技术需求征集系统](https://github.com/flamelll/xuqiuzhengji)
 ### 项目[疫情数据可视化系统](https://github.com/flamelll/yiqing)
+### 项目[益青春APP](https://github.com/flamelll/yiqingchun)
 
 # 专业博客发表
 ### [个人博客](https://www.cnblogs.com/a155-/)
